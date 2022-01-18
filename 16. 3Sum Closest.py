@@ -31,3 +31,74 @@ class Solution:
     #Run time= O(n^2)
     #Number of times solved this problem-- Once
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        1. Buenas tardes, me llamo Yeabkal. 
+                                                                                                                        2. Soy de Cuba. 
+                                                                                                                        3. voy a la universidad de connecticut.
+                                                                                                                        4. me gusta la informática y las matemáticas
+                                                                                                                            Tengo cuatro clases
+                                                                                                                            esta es mi primera vez aprendiendo-
+                                                                                                                        español
+
+                                                                                                                        5. me gusta jugar futbol y al musica
+                                                                                                                        7. me gusta escuchar a bob marley
+                                                                                                                        8. los fines de semana me gusta pasar -
+                                                                                                                            el tiempo con mis amigos y estudiar en la biblioteca.
+
+                                                                                                                        10. me gusta ir al gimnasio
+                                                                                                                        11. no me gusta la política
+                                                                                                                        12. Soy inteligente y al paciente
+                                                                                                                        13. No soy pessimista
+                                                                                                                        14. Estoy sano
+                                                                                                                        15. tengo una hermana y al un perro
+                                                                                                                        17. el nombre de mi perro es Django -
+                                                                                                                            y de mi hermana es kebron
+
+                                                                                                                            amo los dos
+                                                                                                                        18.  El nombre de mi mejor amigo es John
+                                                                                                                        20. Nuestra profesora de español-
+                                                                                                                            es hermosa
