@@ -29,8 +29,8 @@ class Solution:
     
         uf=UnionFind(n)
         
-        for edge in edges:
-            uf.union(edge[0], edge[1])
+        for x, y in edges:
+            uf.union(x, y)
         
         return uf.count
         
